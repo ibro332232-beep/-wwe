@@ -1,0 +1,12 @@
+#EXTM3U
+
+# مجموعة الكرتون
+#EXTINF:-1 tvg-name="توم وجيري" group-title="كرتون",توم وجيري
+http://a.norzro.cfd/live/8667593288/2505245402/776451.m3u8
+
+#EXTINF:-1 tvg-id="ToyStory5Saudi" tvg-name="Toy Story 5 - Saudi" tvg-logo="https://huntrexus.com/2pp3cprei2xp_t.jpg" group-title="أفلام أنيميشن مدبلجة",توي ستوري 5 - مدبلج سعودي
+https://hgcloud.to/2pp3cprei2xp
+
+# مجموعة المصارعة
+#EXTINF:-1 tvg-name="WWE" group-title="مصارعة",WWE
+http://a.norzro.cfd/live/8667593288/2505245402/738882.m3u8
